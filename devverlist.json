@@ -1,3 +1,7 @@
-[{ "1" : "dev-1.75", "mcver": "1.8.8" },
-{ "2" : "dev-1.79", "mcver": "1.8.8" }, 
-{ "3" : "dev-1.80", "mcver": "1.8.8"}]
+{
+  "clientverlist": [
+    { "clientver" : "dev-1.75", "mcver": "1.8.8" },
+    { "clientver" : "dev-1.79", "mcver": "1.8.8" }, 
+    { "clientver" : "dev-1.80", "mcver": "1.8.8"}
+  ]
+}
