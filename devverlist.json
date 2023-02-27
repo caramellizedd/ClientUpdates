@@ -3,5 +3,8 @@
     { "clientver" : "dev-1.75", "mcver": "1.8.8" },
     { "clientver" : "dev-1.79", "mcver": "1.8.8" }, 
     { "clientver" : "dev-1.80", "mcver": "1.8.8"}
+  ],
+  "clientmixinverlist": [
+    { "clientver" : "dev-1.81", "mcver": "1.8.9"}
   ]
 }
