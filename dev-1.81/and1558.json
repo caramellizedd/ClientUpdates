@@ -3,7 +3,7 @@
   "time": "2015-12-03T06:24:39-03:00",
   "releaseTime": "2015-12-03T06:24:39-03:00",
   "type": "release",
-  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass optifine.OptiFineForgeTweaker --tweakClass cc.hyperium.launch.HyperiumTweaker",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass optifine.OptiFineForgeTweaker --tweakClass uk.to.and1558.mixins.and1558Tweaker",
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "minimumLauncherVersion": 14,
   "assets": "1.8",
