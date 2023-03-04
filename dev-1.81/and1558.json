@@ -9,7 +9,7 @@
   "assets": "1.8",
   "libraries": [
     {
-      "name": "net.minecraft:launchwrapper:1.12"
+      "name": "net.minecraft:launchwrapper:1.11"
     },
     {
       "name": "uk.and1558:AND1558:LOCAL"
