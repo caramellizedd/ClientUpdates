@@ -1,4 +1,4 @@
-==DEV 1.82==
+==DEV 1.82==                                                                                                                                           
 The Quality and Bugfix Update
 Changelogs:
 - Improved credits text Animations
