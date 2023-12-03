@@ -1,0 +1,36 @@
+==DEV 1.82==
+The Quality and Bugfix Update
+Changelogs:
+- Improved credits text Animations
+- Disabled HUD Mod from being visible when another menu opens
+- Fixed when dragging a mod over another mod, both gets moved
+- Added a blur inside Edit Menu (Disabled when dragging a mod)
+- Made the box changed color when hovering a mod in the Edit Menu
+- Fixed client freezing when trying to login
+- Fixed client from going to "Pick Accounts menu" when logging in on an offline Account
+- Removed offensive text on the DiscordRPC when staying in the main menu
+- Added more Animations when the Main Menu is opened
+- Changed main menu changelog to a smoother one
+- Changed text from "Finally Mixin!" to "Welome {username}"
+- Fixed background button being too small and the text overflowing it on the Mod Screen
+- Makes the background square smaller on the Mod Screen
+- Added a blur that only blurs whats behind the translucent square background
+- Added an animations for GUI that uses a non-full translucent square
+- Made Old F3 Toggleable
+- Fixed Mod Toggler not checking every mods when opening
+- Changed from using Minecraft's default blur shader to a new one
+- Fixed HP Text not showing when opening the editor without a world opened
+- Fixed Glitched Combo Text when opening the editor
+- Fixed Client keybinds resetting after restarting Minecraft
+
+Less Changelogs:
+- Disable HUD Mod from being visible when another menu opens
+- Fixed client crashing when trying to login
+- Removed Offensive text from Discord RPC
+- Changed text from "Finally Mixin!" to "Welome {username}"
+- Fixed broken buttons in the Mod Screen
+- Made OldF3 Toggleable
+- Fixed Mod Toggler not checking every mods when opening
+- Fixed HP Text not showing when opening the editor without a world opened
+- Fixed Glitched Combo Text when opening the editor
+- Fixed Client keybinds resetting after restarting Minecraft
