@@ -6,6 +6,7 @@
   ],
   "clientmixinverlist": [
     { "clientver" : "dev-1.81", "mcver": "1.8.9"},
-    { "clientver" : "dev-1.82", "mcver": "1.8.9"}
+    { "clientver" : "dev-1.82", "mcver": "1.8.9"},
+    { "clientver" : "dev-1.83", "mcver": "1.8.9"}
   ]
 }
